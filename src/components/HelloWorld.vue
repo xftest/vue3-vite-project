@@ -12,4 +12,4 @@ const count = ref(0);
   <h1>{{ msg }}</h1>
 </template>
 
-<style scoped></style>
+<style scoped lang="scss"></style>
