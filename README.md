@@ -1,6 +1,6 @@
-# Vue 3 + Vite
+# Vue 3 + Vite + Typescript
 
-vue3+vite+typescript 个人练习项目
+个人练习项目
 
 ## Project setup
 
