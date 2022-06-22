@@ -1,5 +1,6 @@
 <script>
 import { defineComponent, ref, reactive, computed } from "vue";
+// import WindowWh from "../components/WindowWh";
 
 export default defineComponent({
   setup() {
@@ -43,6 +44,8 @@ export default defineComponent({
       update,
     };
   },
+
+  // components: ["WindowWh"],
 });
 </script>
 
